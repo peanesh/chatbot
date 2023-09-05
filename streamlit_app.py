@@ -3,7 +3,7 @@ from io import BytesIO
 import numpy as np
 import PIL.Image
 import streamlit as st
-#import tensorflow as tf
+import tensorflow as tf
 
 "# Deep Dream :sleeping:"
 
